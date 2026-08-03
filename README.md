@@ -2,7 +2,6 @@
 
 Personal academic website for Harpreet Singh (PhD Candidate, Department of Economics, McGill University).
 
-Static HTML + Bootstrap 5 site, based on the [fadikar.com](https://github.com/fadikar/fadikar.github.io) theme, deployed via GitHub Pages. No build step, no Jekyll — just plain HTML/CSS/JS.
 
 ## Structure
 
